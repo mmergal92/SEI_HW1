@@ -1,0 +1,2 @@
+//1. The acronym DRY stans for "Don't Repeat Yourself". It's important because if you have an issue with the code and fix it in one place, then (with DRY code) it should be fixed in the whole file. We've written DRY code in Repl and Codepen.
+//2. Const means that the variable is the same throughout the file. Let means that for this part we're having it be one variable, but we could change it for the next part. Var seems to be globally scoped so that can be problametic if you need something to change for a block of code.
